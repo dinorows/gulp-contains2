@@ -1,0 +1,51 @@
+{
+  "name": "gulp-contains2",
+  "version": "1.1.0",
+  "description": "Returns locations in files and counts of string instances found.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinorows/gulp-contains2.git"
+  },
+  "keywords": [
+    "gulp",
+    "string",
+    "gulpplugin"
+  ],
+  "author": {
+    "name": "Dino Konstantopoulos",
+    "email": "dinorows@gmail.com"
+  },
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/dinorows/gulp-contains2/issues"
+  },
+  "homepage": "https://github.com/dinorows/gulp-contains2",
+  "dependencies": {
+    "gulp-util": "^3.0.3",
+    "through2": "^0.6.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "should": "^5.0.0"
+  },
+  "gitHead": "5f35406e4792c035041dffb59254beca636cc6bf",
+  "_id": "gulp-contains2@1.1.0",
+  "_from": "gulp-contains2@*",
+  "_npmVersion": "2.14.12",
+  "_nodeVersion": "4.3.2",
+  "_npmUser": {
+    "name": "dinorows",
+    "email": "dinorows@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "dinorows",
+      "email": "dinorows@gmail.com"
+    }
+  ],
+  "directories": {}
+}
